@@ -1,0 +1,5 @@
+# Nunca subir chaves de acesso
+*.pem
+*.ppk
+.aws/
+credentials
